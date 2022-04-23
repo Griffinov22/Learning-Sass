@@ -1,0 +1,30 @@
+header {
+  background-color: #ffae00;
+  width: 600px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: auto;
+  color: #b34c4c;
+}
+
+header p {
+  color: #b34c4c;
+  font-weight: 900;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+header p:hover {
+  color: #cd87de;
+}
+
+button {
+  background: #00e1ff;
+}
+
+.button-div {
+  background: #00e1ff;
+}
+/*# sourceMappingURL=style.css.map */
